@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 1654b61469cbc1641b96ca31e36db632
+timeCreated: 1502777071
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AwningWi10
+    100002: AwningWi11
+    100004: AwningWi12
+    100006: AwningWi13
+    100008: AwningWi14
+    100010: AwningWi15
+    100012: AwningWi16
+    100014: AwningWi17
+    100016: AwningWi18
+    100018: AwningWi19
+    100020: AwningWi20
+    100022: AwningWi21
+    100024: AwningWi22
+    100026: AwningWi23
+    100028: AwningWi24
+    100030: AwningWi25
+    100032: AwningWin1
+    100034: AwningWin2
+    100036: AwningWin3
+    100038: AwningWin4
+    100040: AwningWin5
+    100042: AwningWin6
+    100044: AwningWin7
+    100046: AwningWin8
+    100048: AwningWin9
+    100050: AwningWind
+    100052: BrokenDing
+    100054: Cylinder01
+    100056: Cylinder03
+    100058: PivotDoor0
+    100060: //RootNode
+    400000: AwningWi10
+    400002: AwningWi11
+    400004: AwningWi12
+    400006: AwningWi13
+    400008: AwningWi14
+    400010: AwningWi15
+    400012: AwningWi16
+    400014: AwningWi17
+    400016: AwningWi18
+    400018: AwningWi19
+    400020: AwningWi20
+    400022: AwningWi21
+    400024: AwningWi22
+    400026: AwningWi23
+    400028: AwningWi24
+    400030: AwningWi25
+    400032: AwningWin1
+    400034: AwningWin2
+    400036: AwningWin3
+    400038: AwningWin4
+    400040: AwningWin5
+    400042: AwningWin6
+    400044: AwningWin7
+    400046: AwningWin8
+    400048: AwningWin9
+    400050: AwningWind
+    400052: BrokenDing
+    400054: Cylinder01
+    400056: Cylinder03
+    400058: PivotDoor0
+    400060: //RootNode
+    2300000: AwningWi10
+    2300002: AwningWi11
+    2300004: AwningWi12
+    2300006: AwningWi13
+    2300008: AwningWi14
+    2300010: AwningWi15
+    2300012: AwningWi16
+    2300014: AwningWi17
+    2300016: AwningWi18
+    2300018: AwningWi19
+    2300020: AwningWi20
+    2300022: AwningWi21
+    2300024: AwningWi22
+    2300026: AwningWi23
+    2300028: AwningWi24
+    2300030: AwningWi25
+    2300032: AwningWin1
+    2300034: AwningWin2
+    2300036: AwningWin3
+    2300038: AwningWin4
+    2300040: AwningWin5
+    2300042: AwningWin6
+    2300044: AwningWin7
+    2300046: AwningWin8
+    2300048: AwningWin9
+    2300050: AwningWind
+    2300052: BrokenDing
+    2300054: Cylinder01
+    2300056: Cylinder03
+    2300058: PivotDoor0
+    3300000: AwningWi10
+    3300002: AwningWi11
+    3300004: AwningWi12
+    3300006: AwningWi13
+    3300008: AwningWi14
+    3300010: AwningWi15
+    3300012: AwningWi16
+    3300014: AwningWi17
+    3300016: AwningWi18
+    3300018: AwningWi19
+    3300020: AwningWi20
+    3300022: AwningWi21
+    3300024: AwningWi22
+    3300026: AwningWi23
+    3300028: AwningWi24
+    3300030: AwningWi25
+    3300032: AwningWin1
+    3300034: AwningWin2
+    3300036: AwningWin3
+    3300038: AwningWin4
+    3300040: AwningWin5
+    3300042: AwningWin6
+    3300044: AwningWin7
+    3300046: AwningWin8
+    3300048: AwningWin9
+    3300050: AwningWind
+    3300052: BrokenDing
+    3300054: Cylinder01
+    3300056: Cylinder03
+    3300058: PivotDoor0
+    4300000: BrokenDing
+    4300002: AwningWind
+    4300004: Cylinder01
+    4300006: PivotDoor0
+    4300008: AwningWin1
+    4300010: AwningWin2
+    4300012: AwningWin3
+    4300014: AwningWin4
+    4300016: AwningWin5
+    4300018: AwningWin6
+    4300020: AwningWin7
+    4300022: AwningWin8
+    4300024: AwningWin9
+    4300026: AwningWi10
+    4300028: AwningWi11
+    4300030: AwningWi12
+    4300032: AwningWi13
+    4300034: AwningWi14
+    4300036: AwningWi15
+    4300038: AwningWi16
+    4300040: AwningWi17
+    4300042: AwningWi18
+    4300044: AwningWi19
+    4300046: AwningWi20
+    4300048: AwningWi21
+    4300050: AwningWi22
+    4300052: AwningWi23
+    4300054: AwningWi24
+    4300056: AwningWi25
+    4300058: Cylinder03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.02
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
